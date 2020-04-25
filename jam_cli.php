@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 //used in the terminal
 date_default_timezone_set('Asia/Jakarta'); //waktu indonesia
 $hari=['Monday'=>'Senin',"Tuesday"=>"Selasa",'Wednesday'=>'Rabu',"Thursday"=>"Kamis","Friday"=>"Jumat","Saturday"=>"Sabtu","Sunday"=>"Minggu"]; //hari
